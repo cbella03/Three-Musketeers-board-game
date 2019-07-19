@@ -261,8 +261,6 @@ def is_enemy_win():
                
 
 #---------- Communicating with the user ----------
-#----you do not need to modify code below unless you find a bug
-#----a bug in it before you move to stage 3
 
 def print_board():
     print("    1  2  3  4  5")
